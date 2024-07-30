@@ -1,0 +1,66 @@
+[
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 1,
+  "InstName" : "pers_rom",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "pers_rom"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 23,
+  "InstName" : "U",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 23,
+  "ModuleName" : "U"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 39,
+  "InstName" : "i",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 39,
+  "ModuleName" : "i"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 55,
+  "InstName" : "P",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 55,
+  "ModuleName" : "P"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 71,
+  "InstName" : "F",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 71,
+  "ModuleName" : "F"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "InstLine" : 87,
+  "InstName" : "E",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/rom.v",
+  "ModuleLine" : 87,
+  "ModuleName" : "E"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/enemigos.v",
+  "InstLine" : 1,
+  "InstName" : "enemigos",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/enemigos.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "enemigos"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/SELECTOR.v",
+  "InstLine" : 1,
+  "InstName" : "SELECTOR",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/src/SELECTOR.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "SELECTOR"
+ }
+]
