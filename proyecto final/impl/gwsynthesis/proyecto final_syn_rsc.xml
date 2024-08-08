@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" T_Register="231(0)" T_Alu="79(0)" T_Lut="264(0)">
+    <SubModule name="keypad" Register="43" Alu="27" Lut="54" T_Register="43(43)" T_Alu="27(27)" T_Lut="54(54)"/>
+    <SubModule name="fsm" Register="40" Lut="53" T_Register="40(40)" T_Lut="53(53)"/>
+    <SubModule name="display" Register="69" Alu="26" Lut="61" T_Register="69(69)" T_Alu="26(26)" T_Lut="61(61)"/>
+    <SubModule name="menu" Register="70" Alu="26" Lut="82" T_Register="70(70)" T_Alu="26(26)" T_Lut="82(82)"/>
+    <SubModule name="rom_personaje" Register="7" Lut="8" T_Register="7(7)" T_Lut="8(8)"/>
+    <SubModule name="juego" Register="2" Lut="6" T_Register="2(2)" T_Lut="6(6)"/>
+</Module>

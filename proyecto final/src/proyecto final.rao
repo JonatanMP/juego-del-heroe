@@ -1,0 +1,35 @@
+<?xml version="1" encoding="UTF-8"?>
+<GAO_CONFIG>
+    <Version>3.0</Version>
+    <Mode>Lite</Mode>
+    <AoCore_Lite index="0" sample_clock="clk" trig_type="0" capture_amount="1024" implemention="0" input_register_enabled="1" capture_init_data_enabled="1" module_name="top">
+        <SignalList>
+            <Bus capture_enable="true" name="fsm/presente[3:0]">
+                <Signal>fsm/presente[3]</Signal>
+                <Signal>fsm/presente[2]</Signal>
+                <Signal>fsm/presente[1]</Signal>
+                <Signal>fsm/presente[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="fsm/estados[1:0]">
+                <Signal>fsm/estados[1]</Signal>
+                <Signal>fsm/estados[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="fsm/futuro[3:0]">
+                <Signal>fsm/futuro[3]</Signal>
+                <Signal>fsm/futuro[2]</Signal>
+                <Signal>fsm/futuro[1]</Signal>
+                <Signal>fsm/futuro[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="menu/presente[3:0]">
+                <Signal>menu/presente[3]</Signal>
+                <Signal>menu/presente[2]</Signal>
+                <Signal>menu/presente[1]</Signal>
+                <Signal>menu/presente[0]</Signal>
+            </Bus>
+            <Signal capture_enable="true">clk</Signal>
+            <Signal capture_enable="true">encendido</Signal>
+            <Signal capture_enable="true">menu/cambio</Signal>
+        </SignalList>
+    </AoCore_Lite>
+    <GAO_ID>0100101101101011</GAO_ID>
+</GAO_CONFIG>

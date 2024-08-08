@@ -1,0 +1,76 @@
+[
+ {
+  "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 29,
+    "InstName" : "keypad",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/keypad.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "keypad"
+   },
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 37,
+    "InstName" : "fsm",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/fsm.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "fsm"
+   },
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 45,
+    "InstName" : "display",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/display.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "display"
+   },
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 59,
+    "InstName" : "menu",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/menu.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "menu"
+   },
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 75,
+    "InstName" : "rom_personaje",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/rompersonaje.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "rom_personaje"
+   },
+   {
+    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+    "InstLine" : 82,
+    "InstName" : "juego",
+    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/juego.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "juego"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/obstaculos.v",
+  "InstLine" : 1,
+  "InstName" : "rom_obstaculos",
+  "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/obstaculos.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "rom_obstaculos"
+ },
+ {
+  "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/pruebalfsr.v",
+  "InstLine" : 1,
+  "InstName" : "lfsr",
+  "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/pruebalfsr.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "lfsr"
+ }
+]

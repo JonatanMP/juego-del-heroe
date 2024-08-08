@@ -1,0 +1,49 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/display.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/fsm.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/juego.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/keypad.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/menu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/obstaculos.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/pruebalfsr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/rompersonaje.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

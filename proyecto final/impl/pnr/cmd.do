@@ -1,0 +1,13 @@
+-d C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\proyecto final.cst
+-cfg C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

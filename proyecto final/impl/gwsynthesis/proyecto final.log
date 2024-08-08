@@ -1,0 +1,44 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\obstaculos.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v'
+Compiling module 'top'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":1)
+Compiling module 'keypad'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v":1)
+Compiling module 'fsm'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":1)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 5("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":16)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":23)
+Compiling module 'display'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v":1)
+Compiling module 'menu'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v":1)
+Compiling module 'rom_personaje'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v":1)
+Compiling module 'juego'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v":1)
+WARN  (EX2565) : Input 'obs_aleo[3]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":88)
+WARN  (EX2565) : Input 'obs_aleo[2]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":88)
+WARN  (EX2565) : Input 'obs_aleo[1]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":88)
+WARN  (EX2565) : Input 'obs_aleo[0]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":88)
+NOTE  (EX0101) : Current top module is "top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final.vg" completed
+[100%] Generate report file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final_syn.rpt.html" completed
+GowinSynthesis finish
