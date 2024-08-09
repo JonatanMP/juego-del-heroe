@@ -1,0 +1,5 @@
+module contador (
+    
+);
+
+endmodule //contador

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="main" T_Register="259(0)" T_Alu="238(0)" T_Lut="196(0)">
+    <SubModule name="notas" Register="38" Alu="35" Lut="64" T_Register="255(38)" T_Alu="238(35)" T_Lut="188(64)">
+        <SubModule name="DO4_inst" Register="31" Alu="29" Lut="19" T_Register="31(31)" T_Alu="29(29)" T_Lut="19(19)"/>
+        <SubModule name="FA4_inst" Register="31" Alu="29" Lut="19" T_Register="31(31)" T_Alu="29(29)" T_Lut="19(19)"/>
+        <SubModule name="LA4_inst" Register="31" Alu="29" Lut="17" T_Register="31(31)" T_Alu="29(29)" T_Lut="17(17)"/>
+        <SubModule name="SI4_inst" Register="31" Alu="29" Lut="18" T_Register="31(31)" T_Alu="29(29)" T_Lut="18(18)"/>
+        <SubModule name="DO5_inst" Register="31" Alu="29" Lut="18" T_Register="31(31)" T_Alu="29(29)" T_Lut="18(18)"/>
+        <SubModule name="RE5_inst" Register="31" Alu="29" Lut="18" T_Register="31(31)" T_Alu="29(29)" T_Lut="18(18)"/>
+        <SubModule name="MI5_inst" Register="31" Alu="29" Lut="15" T_Register="31(31)" T_Alu="29(29)" T_Lut="15(15)"/>
+    </SubModule>
+    <SubModule name="estados" Register="4" Lut="8" T_Register="4(4)" T_Lut="8(8)"/>
+</Module>

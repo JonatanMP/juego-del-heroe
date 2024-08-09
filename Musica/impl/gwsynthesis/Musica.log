@@ -1,0 +1,70 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\estado.v'
+Analyzing Verilog file 'C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v'
+Undeclared symbol 'do4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":86)
+Undeclared symbol 'db4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":92)
+Undeclared symbol 're4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":98)
+Undeclared symbol 'eb4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":104)
+Undeclared symbol 'mi4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":110)
+Undeclared symbol 'fa4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":116)
+Undeclared symbol 'gb4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":122)
+Undeclared symbol 'sol4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":128)
+Undeclared symbol 'ab4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":134)
+Undeclared symbol 'la4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":140)
+Undeclared symbol 'bb4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":146)
+Undeclared symbol 'si4', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":152)
+Undeclared symbol 'do5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":159)
+Undeclared symbol 'db5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":165)
+Undeclared symbol 're5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":171)
+Undeclared symbol 'eb5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":177)
+Undeclared symbol 'mi5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":183)
+Undeclared symbol 'fa5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":189)
+Undeclared symbol 'gb5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":195)
+Undeclared symbol 'sol5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":201)
+Undeclared symbol 'ab5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":207)
+Undeclared symbol 'la5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":213)
+Undeclared symbol 'bb5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":219)
+Undeclared symbol 'si5', assumed default net type 'wire'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":225)
+Analyzing Verilog file 'C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\main.v'
+Compiling module 'main'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\main.v":1)
+Compiling module 'notas'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":1)
+Compiling module 'clks'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":481)
+Compiling module 'estados'("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\estado.v":1)
+NOTE  (EX0101) : Current top module is "main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "clks" instantiated to "AB4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":135)
+WARN  (NL0002) : The module "clks" instantiated to "AB5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":208)
+WARN  (NL0002) : The module "clks" instantiated to "BB4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":147)
+WARN  (NL0002) : The module "clks" instantiated to "BB5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":220)
+WARN  (NL0002) : The module "clks" instantiated to "DB4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":93)
+WARN  (NL0002) : The module "clks" instantiated to "DB5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":166)
+WARN  (NL0002) : The module "clks" instantiated to "EB4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":105)
+WARN  (NL0002) : The module "clks" instantiated to "EB5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":178)
+WARN  (NL0002) : The module "clks" instantiated to "FA5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":190)
+WARN  (NL0002) : The module "clks" instantiated to "GB4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":123)
+WARN  (NL0002) : The module "clks" instantiated to "GB5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":196)
+WARN  (NL0002) : The module "clks" instantiated to "LA5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":214)
+WARN  (NL0002) : The module "clks" instantiated to "MI4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":111)
+WARN  (NL0002) : The module "clks" instantiated to "RE4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":99)
+WARN  (NL0002) : The module "clks" instantiated to "SI5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":226)
+WARN  (NL0002) : The module "clks" instantiated to "SOL4_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":129)
+WARN  (NL0002) : The module "clks" instantiated to "SOL5_inst" is swept in optimizing("C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\src\frecuencia.v":202)
+[95%] Generate netlist file "C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\impl\gwsynthesis\Musica.vg" completed
+[100%] Generate report file "C:\Users\ooval\Desktop\ITLA\C-12\SISTEMA DIGITALES\CUATRINUEVO VIDA NUEVA\arreglandocodes\Musica\impl\gwsynthesis\Musica_syn.rpt.html" completed
+GowinSynthesis finish
