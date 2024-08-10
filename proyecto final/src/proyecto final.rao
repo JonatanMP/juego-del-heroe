@@ -1,0 +1,70 @@
+<?xml version="1" encoding="UTF-8"?>
+<GAO_CONFIG>
+    <Version>3.0</Version>
+    <Mode>Lite</Mode>
+    <AoCore_Lite index="0" sample_clock="clk" trig_type="0" capture_amount="16384" implemention="0" input_register_enabled="0" capture_init_data_enabled="0" module_name="top">
+        <SignalList>
+            <Bus capture_enable="true" name="presente[3:0]">
+                <Signal>presente[3]</Signal>
+                <Signal>presente[2]</Signal>
+                <Signal>presente[1]</Signal>
+                <Signal>presente[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="heroe_seleccionado[2:0]">
+                <Signal>heroe_seleccionado[2]</Signal>
+                <Signal>heroe_seleccionado[1]</Signal>
+                <Signal>heroe_seleccionado[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="heroe[2:0]">
+                <Signal>heroe[2]</Signal>
+                <Signal>heroe[1]</Signal>
+                <Signal>heroe[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="disp_obs[20:0]">
+                <Signal>disp_obs[20]</Signal>
+                <Signal>disp_obs[19]</Signal>
+                <Signal>disp_obs[18]</Signal>
+                <Signal>disp_obs[17]</Signal>
+                <Signal>disp_obs[16]</Signal>
+                <Signal>disp_obs[15]</Signal>
+                <Signal>disp_obs[14]</Signal>
+                <Signal>disp_obs[13]</Signal>
+                <Signal>disp_obs[12]</Signal>
+                <Signal>disp_obs[11]</Signal>
+                <Signal>disp_obs[10]</Signal>
+                <Signal>disp_obs[9]</Signal>
+                <Signal>disp_obs[8]</Signal>
+                <Signal>disp_obs[7]</Signal>
+                <Signal>disp_obs[6]</Signal>
+                <Signal>disp_obs[5]</Signal>
+                <Signal>disp_obs[4]</Signal>
+                <Signal>disp_obs[3]</Signal>
+                <Signal>disp_obs[2]</Signal>
+                <Signal>disp_obs[1]</Signal>
+                <Signal>disp_obs[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="v_d[1:0]">
+                <Signal>v_d[1]</Signal>
+                <Signal>v_d[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="fsm/futuro[3:0]">
+                <Signal>fsm/futuro[3]</Signal>
+                <Signal>fsm/futuro[2]</Signal>
+                <Signal>fsm/futuro[1]</Signal>
+                <Signal>fsm/futuro[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="fsm/timer_pass[2:0]">
+                <Signal>fsm/timer_pass[2]</Signal>
+                <Signal>fsm/timer_pass[1]</Signal>
+                <Signal>fsm/timer_pass[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="fsm/timer_reset[3:0]">
+                <Signal>fsm/timer_reset[3]</Signal>
+                <Signal>fsm/timer_reset[2]</Signal>
+                <Signal>fsm/timer_reset[1]</Signal>
+                <Signal>fsm/timer_reset[0]</Signal>
+            </Bus>
+        </SignalList>
+    </AoCore_Lite>
+    <GAO_ID>0111010000110000</GAO_ID>
+</GAO_CONFIG>

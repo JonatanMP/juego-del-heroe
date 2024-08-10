@@ -1,0 +1,50 @@
+//Copyright (C)2014-2024 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//Tool Version: V1.9.9.02
+//Part Number: GW2A-LV18PG256C8/I7
+//Device: GW2A-18
+//Device Version: C
+//Created Time: Wed 08 07 05:55:42 2024
+IO_LOC "encendido" N14;
+IO_PORT "encendido" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "enable_display[3]" T6;
+IO_PORT "enable_display[3]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "enable_display[2]" P6;
+IO_PORT "enable_display[2]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "enable_display[1]" R8;
+IO_PORT "enable_display[1]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "enable_display[0]" B13;
+IO_PORT "enable_display[0]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[6]" T8;
+IO_PORT "display_controlador[6]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[5]" P8;
+IO_PORT "display_controlador[5]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[4]" P9;
+IO_PORT "display_controlador[4]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[3]" T9;
+IO_PORT "display_controlador[3]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[2]" T11;
+IO_PORT "display_controlador[2]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[1]" P11;
+IO_PORT "display_controlador[1]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "display_controlador[0]" T12;
+IO_PORT "display_controlador[0]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "fila[3]" R11;
+IO_PORT "fila[3]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "fila[2]" M14;
+IO_PORT "fila[2]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "fila[1]" M15;
+IO_PORT "fila[1]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "fila[0]" J14;
+IO_PORT "fila[0]" IO_TYPE=LVCMOS18 PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "columna[3]" J16;
+IO_PORT "columna[3]" IO_TYPE=LVCMOS18 PULL_MODE=DOWN BANK_VCCIO=1.8;
+IO_LOC "columna[2]" D14;
+IO_PORT "columna[2]" IO_TYPE=LVCMOS18 PULL_MODE=DOWN BANK_VCCIO=1.8;
+IO_LOC "columna[1]" E15;
+IO_PORT "columna[1]" IO_TYPE=LVCMOS18 PULL_MODE=DOWN BANK_VCCIO=1.8;
+IO_LOC "columna[0]" A15;
+IO_PORT "columna[0]" IO_TYPE=LVCMOS18 PULL_MODE=DOWN BANK_VCCIO=1.8;
+IO_LOC "clk" H11;
+IO_PORT "clk" IO_TYPE=LVCMOS18 PULL_MODE=UP BANK_VCCIO=1.8;
