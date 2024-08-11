@@ -1,0 +1,66 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\obstaculos.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v'
+Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'
+Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v'
+Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\gw_jtag.v'
+Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
+Compiling module 'top'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":1)
+Compiling module 'keypad'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v":1)
+Compiling module 'fsm'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":1)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 5("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":20)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":27)
+Compiling module 'display'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v":1)
+Compiling module 'menu'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v":1)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v":51)
+Compiling module 'rom_personaje'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v":1)
+Compiling module 'juego'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v":1)
+Compiling module 'lfsr'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v":1)
+WARN  (EX3780) : Using initial value of 'conteo_juego' since it is never assigned("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v":19)
+Compiling module 'rom_obstaculos'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\obstaculos.v":1)
+Compiling module 'choque'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v":1)
+Compiling module 'gw_gao'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
+Compiling module 'GW_JTAG'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\gw_jtag.v":1)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Extracting RAM for identifier '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Trying to combine GAO to RTL design
+NOTE  (EX0101) : Current top module is "top"
+WARN  (EX0211) : The output port "bono" of module "choque" has no driver, assigning undriven bits to Z, simulation mismatch possible("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v":17)
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "rom_personaje" instantiated to "rom_personaje" is swept in optimizing("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":104)
+[95%] Generate netlist file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final.vg" completed
+[100%] Generate report file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final_syn.rpt.html" completed
+GowinSynthesis finish
