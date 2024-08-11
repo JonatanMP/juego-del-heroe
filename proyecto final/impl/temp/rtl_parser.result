@@ -1,83 +1,901 @@
 [
  {
-  "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+  "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
   "InstLine" : 1,
   "InstName" : "top",
-  "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
   "ModuleLine" : 1,
   "ModuleName" : "top",
   "SubInsts" : [
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 47,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 48,
     "InstName" : "keypad",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/keypad.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/keypad.v",
     "ModuleLine" : 1,
     "ModuleName" : "keypad"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 55,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 56,
     "InstName" : "fsm",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/fsm.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/fsm.v",
     "ModuleLine" : 1,
     "ModuleName" : "fsm"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 65,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 66,
     "InstName" : "display",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/display.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/display.v",
     "ModuleLine" : 1,
     "ModuleName" : "display"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 80,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 81,
     "InstName" : "menu",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/menu.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/menu.v",
     "ModuleLine" : 1,
     "ModuleName" : "menu"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 99,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 100,
     "InstName" : "rom_personaje",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/rompersonaje.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/rompersonaje.v",
     "ModuleLine" : 1,
     "ModuleName" : "rom_personaje"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 106,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 107,
     "InstName" : "juego",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/juego.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/juego.v",
     "ModuleLine" : 1,
     "ModuleName" : "juego"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 118,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 119,
     "InstName" : "lfsr",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/pruebalfsr.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/pruebalfsr.v",
     "ModuleLine" : 1,
     "ModuleName" : "lfsr"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 130,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 131,
     "InstName" : "rom_obstaculos",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/obstaculos.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/obstaculos.v",
     "ModuleLine" : 1,
     "ModuleName" : "rom_obstaculos"
    },
    {
-    "InstFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/main.v",
-    "InstLine" : 136,
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 137,
     "InstName" : "choque",
-    "ModuleFile" : "C:/Users/jacob/OneDrive/Desktop/Sistemas Digitales/Circuitos Multisim o Fpga/proyecto final/src/choque.v",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/choque.v",
     "ModuleLine" : 1,
     "ModuleName" : "choque"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/main.v",
+    "InstLine" : 147,
+    "InstName" : "audioselec",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/audioselec.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "audioselec",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/audioselec.v",
+      "InstLine" : 13,
+      "InstName" : "notas",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "notas",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 96,
+        "InstName" : "DO4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 102,
+        "InstName" : "DB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 108,
+        "InstName" : "RE4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 114,
+        "InstName" : "EB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 120,
+        "InstName" : "MI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 126,
+        "InstName" : "FA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 132,
+        "InstName" : "GB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 138,
+        "InstName" : "SOL4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 144,
+        "InstName" : "AB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 150,
+        "InstName" : "LA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 156,
+        "InstName" : "BB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 162,
+        "InstName" : "SI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 169,
+        "InstName" : "DO5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 175,
+        "InstName" : "DB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 181,
+        "InstName" : "RE5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 187,
+        "InstName" : "EB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 193,
+        "InstName" : "MI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 199,
+        "InstName" : "FA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 205,
+        "InstName" : "GB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 211,
+        "InstName" : "SOL5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 217,
+        "InstName" : "AB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 223,
+        "InstName" : "LA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 229,
+        "InstName" : "BB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 235,
+        "InstName" : "SI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/audioselec.v",
+      "InstLine" : 19,
+      "InstName" : "notas_Mario",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+      "ModuleLine" : 979,
+      "ModuleName" : "notas_Mario",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1047,
+        "InstName" : "DO4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1053,
+        "InstName" : "DB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1059,
+        "InstName" : "RE4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1065,
+        "InstName" : "EB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1071,
+        "InstName" : "MI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1077,
+        "InstName" : "FA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1083,
+        "InstName" : "GB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1089,
+        "InstName" : "SOL4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1095,
+        "InstName" : "AB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1101,
+        "InstName" : "LA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1107,
+        "InstName" : "BB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1113,
+        "InstName" : "SI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1120,
+        "InstName" : "DO5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1126,
+        "InstName" : "DB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1132,
+        "InstName" : "RE5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1138,
+        "InstName" : "EB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1144,
+        "InstName" : "MI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1150,
+        "InstName" : "FA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1156,
+        "InstName" : "GB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1162,
+        "InstName" : "SOL5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1168,
+        "InstName" : "AB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1174,
+        "InstName" : "LA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1180,
+        "InstName" : "BB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1186,
+        "InstName" : "SI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/audioselec.v",
+      "InstLine" : 25,
+      "InstName" : "notas_tetriz",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+      "ModuleLine" : 1457,
+      "ModuleName" : "notas_tetriz",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1527,
+        "InstName" : "DO4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1533,
+        "InstName" : "DB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1539,
+        "InstName" : "RE4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1545,
+        "InstName" : "EB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1551,
+        "InstName" : "MI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1557,
+        "InstName" : "FA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1563,
+        "InstName" : "GB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1569,
+        "InstName" : "SOL4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1575,
+        "InstName" : "AB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1581,
+        "InstName" : "LA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1587,
+        "InstName" : "BB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1593,
+        "InstName" : "SI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1600,
+        "InstName" : "DO5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1606,
+        "InstName" : "DB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1612,
+        "InstName" : "RE5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1618,
+        "InstName" : "EB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1624,
+        "InstName" : "MI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1630,
+        "InstName" : "FA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1636,
+        "InstName" : "GB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1642,
+        "InstName" : "SOL5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1648,
+        "InstName" : "AB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1654,
+        "InstName" : "LA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1660,
+        "InstName" : "BB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 1666,
+        "InstName" : "SI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/audioselec.v",
+      "InstLine" : 31,
+      "InstName" : "notas_zelda",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+      "ModuleLine" : 507,
+      "ModuleName" : "notas_zelda",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 575,
+        "InstName" : "DO4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 581,
+        "InstName" : "DB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 587,
+        "InstName" : "RE4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 593,
+        "InstName" : "EB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 599,
+        "InstName" : "MI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 605,
+        "InstName" : "FA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 611,
+        "InstName" : "GB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 617,
+        "InstName" : "SOL4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 623,
+        "InstName" : "AB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 629,
+        "InstName" : "LA4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 635,
+        "InstName" : "BB4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 641,
+        "InstName" : "SI4_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 648,
+        "InstName" : "DO5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 654,
+        "InstName" : "DB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 660,
+        "InstName" : "RE5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 666,
+        "InstName" : "EB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 672,
+        "InstName" : "MI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 678,
+        "InstName" : "FA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 684,
+        "InstName" : "GB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 690,
+        "InstName" : "SOL5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 696,
+        "InstName" : "AB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 702,
+        "InstName" : "LA5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 708,
+        "InstName" : "BB5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       },
+       {
+        "InstFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "InstLine" : 714,
+        "InstName" : "SI5_inst",
+        "ModuleFile" : "C:/Gowin/Gowin_V1.9.9Beta-4_Education/IDE/bin/juego-del-heroe/proyecto final/src/frecuencia.v",
+        "ModuleLine" : 491,
+        "ModuleName" : "clks"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

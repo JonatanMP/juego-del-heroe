@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" T_Register="587(0)" T_Alu="136(0)" T_Lut="725(0)" T_Bsram="43(0)">
-    <SubModule name="gw_gao_inst_0" Register="253" Lut="241" Bsram="43" T_Register="253(253)" T_Lut="241(241)" T_Bsram="43(43)"/>
-    <SubModule name="keypad" Register="43" Alu="27" Lut="46" T_Register="43(43)" T_Alu="27(27)" T_Lut="46(46)"/>
-    <SubModule name="fsm" Register="77" Alu="27" Lut="98" T_Register="77(77)" T_Alu="27(27)" T_Lut="98(98)"/>
-    <SubModule name="display" Register="41" Alu="26" Lut="47" T_Register="41(41)" T_Alu="26(26)" T_Lut="47(47)"/>
-    <SubModule name="menu" Register="103" Alu="29" Lut="179" T_Register="103(103)" T_Alu="29(29)" T_Lut="179(179)"/>
-    <SubModule name="juego" Register="2" Lut="6" T_Register="2(2)" T_Lut="6(6)"/>
-    <SubModule name="lfsr" Register="67" Alu="27" Lut="70" T_Register="67(67)" T_Alu="27(27)" T_Lut="70(70)"/>
-    <SubModule name="rom_obstaculos" Lut="7" T_Lut="7(7)"/>
-    <SubModule name="choque" Register="1" Lut="31" T_Register="1(1)" T_Lut="31(31)"/>
+<Module name="top">
+ <SubModule name="gw_gao_inst_0" Register="253" Lut="240" Bsram="43"/>
+ <SubModule name="keypad" Register="43" Alu="27" Lut="54"/>
+ <SubModule name="fsm" Register="77" Alu="27" Lut="94"/>
+ <SubModule name="display" Register="41" Alu="26" Lut="47"/>
+ <SubModule name="menu" Register="103" Alu="29" Lut="171"/>
+ <SubModule name="juego" Register="2" Lut="6"/>
+ <SubModule name="lfsr" Register="67" Alu="27" Lut="64"/>
+ <SubModule name="rom_obstaculos" Lut="7"/>
+ <SubModule name="choque" Register="1" Lut="27"/>
+ <SubModule name="audioselec" Register="2" Lut="8">
+  <SubModule name="notas" Register="38" Alu="35" Lut="66">
+   <SubModule name="DO4_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="FA4_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="LA4_inst" Register="31" Alu="29" Lut="16"/>
+   <SubModule name="SI4_inst" Register="31" Alu="29" Lut="16"/>
+   <SubModule name="DO5_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="RE5_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="MI5_inst" Register="31" Alu="29" Lut="16"/>
+  </SubModule>
+  <SubModule name="notas_Mario" Register="38" Alu="35" Lut="77">
+   <SubModule name="MI4_inst" Register="31" Alu="29" Lut="17"/>
+   <SubModule name="SOL4_inst" Register="31" Alu="29" Lut="17"/>
+   <SubModule name="DO5_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="MI5_inst" Register="31" Alu="29" Lut="16"/>
+  </SubModule>
+  <SubModule name="notas_zelda" Register="38" Alu="35" Lut="59">
+   <SubModule name="DO4_inst" Register="31" Alu="29" Lut="18"/>
+   <SubModule name="SOL4_inst" Register="31" Alu="29" Lut="17"/>
+   <SubModule name="LA4_inst" Register="31" Alu="29" Lut="16"/>
+   <SubModule name="DO5_inst" Register="31" Alu="29" Lut="18"/>
+  </SubModule>
+ </SubModule>
 </Module>

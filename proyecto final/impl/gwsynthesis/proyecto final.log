@@ -1,49 +1,65 @@
 GowinSynthesis start
 Running parser ...
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\obstaculos.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v'
-Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v'
-Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
-Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
-Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'
-Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
-Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
-Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v'
-Analyzing included file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
-Back to file '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
-Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\gw_jtag.v'
-Analyzing Verilog file 'C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
-Compiling module 'top'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":1)
-Compiling module 'keypad'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\keypad.v":1)
-Compiling module 'fsm'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":1)
-WARN  (EX3791) : Expression size 10 truncated to fit in target size 5("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":20)
-WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\fsm.v":27)
-Compiling module 'display'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\display.v":1)
-Compiling module 'menu'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v":1)
-WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\menu.v":51)
-Compiling module 'rom_personaje'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\rompersonaje.v":1)
-Compiling module 'juego'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\juego.v":1)
-Compiling module 'lfsr'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v":1)
-WARN  (EX3780) : Using initial value of 'conteo_juego' since it is never assigned("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\pruebalfsr.v":19)
-Compiling module 'rom_obstaculos'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\obstaculos.v":1)
-Compiling module 'choque'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v":1)
-Compiling module 'gw_gao'("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
-Compiling module 'GW_JTAG'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\gw_jtag.v":1)
-Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
-Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
-Compiling module '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
-Extracting RAM for identifier '**'("C:\Gowin\Gowin_V1.9.9.02_x64\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\choque.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\display.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\fsm.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\juego.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\keypad.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\main.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\menu.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\obstaculos.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\pruebalfsr.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\audioselec.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\rompersonaje.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v'
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":133)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_define.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_parameter.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":684)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v'
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_top_define.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_parameter.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Back to file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":367)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\gw_jtag.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
+Compiling module 'choque'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\choque.v":1)
+Compiling module 'display'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\display.v":1)
+Compiling module 'fsm'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\fsm.v":1)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 5("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\fsm.v":20)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\fsm.v":27)
+Compiling module 'juego'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\juego.v":1)
+Compiling module 'keypad'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\keypad.v":1)
+Compiling module 'top'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\main.v":1)
+Compiling module 'menu'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\menu.v":1)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 26("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\menu.v":51)
+Compiling module 'rom_personaje'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\rompersonaje.v":1)
+Compiling module 'lfsr'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\pruebalfsr.v":1)
+WARN  (EX3780) : Using initial value of 'conteo_juego' since it is never assigned("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\pruebalfsr.v":19)
+Compiling module 'rom_obstaculos'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\obstaculos.v":1)
+Compiling module 'audioselec'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\audioselec.v":1)
+Compiling module 'notas'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1)
+Compiling module 'clks'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":491)
+Compiling module 'notas_Mario'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":979)
+Compiling module 'notas_tetriz'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1457)
+Compiling module 'notas_zelda'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":507)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":0)
+Extracting RAM for identifier '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":0)
+Extracting RAM for identifier '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v":0)
+Compiling module 'GW_JTAG'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\data\ipcores\gw_jtag.v":1)
+Compiling module 'gw_gao'("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
 Trying to combine GAO to RTL design
 NOTE  (EX0101) : Current top module is "top"
-WARN  (EX0211) : The output port "bono" of module "choque" has no driver, assigning undriven bits to Z, simulation mismatch possible("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\choque.v":17)
+WARN  (EX0211) : The output port "bono" of module "choque" has no driver, assigning undriven bits to Z, simulation mismatch possible("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\choque.v":17)
 [5%] Running netlist conversion ...
 Running device independent optimization ...
 [10%] Optimizing Phase 0 completed
@@ -60,7 +76,89 @@ Running technical mapping ...
 [75%] Tech-Mapping Phase 2 completed
 [80%] Tech-Mapping Phase 3 completed
 [90%] Tech-Mapping Phase 4 completed
-WARN  (NL0002) : The module "rom_personaje" instantiated to "rom_personaje" is swept in optimizing("C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\src\main.v":104)
-[95%] Generate netlist file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final.vg" completed
-[100%] Generate report file "C:\Users\jacob\OneDrive\Desktop\Sistemas Digitales\Circuitos Multisim o Fpga\proyecto final\impl\gwsynthesis\proyecto final_syn.rpt.html" completed
+WARN  (NL0002) : The module "clks" instantiated to "AB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":148)
+WARN  (NL0002) : The module "clks" instantiated to "AB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":221)
+WARN  (NL0002) : The module "clks" instantiated to "BB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":160)
+WARN  (NL0002) : The module "clks" instantiated to "BB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":233)
+WARN  (NL0002) : The module "clks" instantiated to "DB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":106)
+WARN  (NL0002) : The module "clks" instantiated to "DB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":179)
+WARN  (NL0002) : The module "clks" instantiated to "EB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":118)
+WARN  (NL0002) : The module "clks" instantiated to "EB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":191)
+WARN  (NL0002) : The module "clks" instantiated to "FA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":203)
+WARN  (NL0002) : The module "clks" instantiated to "GB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":136)
+WARN  (NL0002) : The module "clks" instantiated to "GB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":209)
+WARN  (NL0002) : The module "clks" instantiated to "LA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":227)
+WARN  (NL0002) : The module "clks" instantiated to "MI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":124)
+WARN  (NL0002) : The module "clks" instantiated to "RE4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":112)
+WARN  (NL0002) : The module "clks" instantiated to "SI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":239)
+WARN  (NL0002) : The module "clks" instantiated to "SOL4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":142)
+WARN  (NL0002) : The module "clks" instantiated to "SOL5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":215)
+WARN  (NL0002) : The module "clks" instantiated to "AB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1099)
+WARN  (NL0002) : The module "clks" instantiated to "AB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1172)
+WARN  (NL0002) : The module "clks" instantiated to "BB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1111)
+WARN  (NL0002) : The module "clks" instantiated to "BB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1184)
+WARN  (NL0002) : The module "clks" instantiated to "DB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1057)
+WARN  (NL0002) : The module "clks" instantiated to "DB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1130)
+WARN  (NL0002) : The module "clks" instantiated to "DO4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1051)
+WARN  (NL0002) : The module "clks" instantiated to "EB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1069)
+WARN  (NL0002) : The module "clks" instantiated to "EB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1142)
+WARN  (NL0002) : The module "clks" instantiated to "FA4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1081)
+WARN  (NL0002) : The module "clks" instantiated to "FA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1154)
+WARN  (NL0002) : The module "clks" instantiated to "GB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1087)
+WARN  (NL0002) : The module "clks" instantiated to "GB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1160)
+WARN  (NL0002) : The module "clks" instantiated to "LA4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1105)
+WARN  (NL0002) : The module "clks" instantiated to "LA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1178)
+WARN  (NL0002) : The module "clks" instantiated to "RE4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1063)
+WARN  (NL0002) : The module "clks" instantiated to "RE5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1136)
+WARN  (NL0002) : The module "clks" instantiated to "SI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1117)
+WARN  (NL0002) : The module "clks" instantiated to "SI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1190)
+WARN  (NL0002) : The module "clks" instantiated to "SOL5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1166)
+WARN  (NL0002) : The module "notas_tetriz" instantiated to "notas_tetriz" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\audioselec.v":29)
+WARN  (NL0002) : The module "clks" instantiated to "AB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1579)
+WARN  (NL0002) : The module "clks" instantiated to "AB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1652)
+WARN  (NL0002) : The module "clks" instantiated to "BB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1591)
+WARN  (NL0002) : The module "clks" instantiated to "BB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1664)
+WARN  (NL0002) : The module "clks" instantiated to "DB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1537)
+WARN  (NL0002) : The module "clks" instantiated to "DB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1610)
+WARN  (NL0002) : The module "clks" instantiated to "DO4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1531)
+WARN  (NL0002) : The module "clks" instantiated to "DO5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1604)
+WARN  (NL0002) : The module "clks" instantiated to "EB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1549)
+WARN  (NL0002) : The module "clks" instantiated to "EB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1622)
+WARN  (NL0002) : The module "clks" instantiated to "FA4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1561)
+WARN  (NL0002) : The module "clks" instantiated to "FA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1634)
+WARN  (NL0002) : The module "clks" instantiated to "GB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1567)
+WARN  (NL0002) : The module "clks" instantiated to "GB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1640)
+WARN  (NL0002) : The module "clks" instantiated to "LA4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1585)
+WARN  (NL0002) : The module "clks" instantiated to "LA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1658)
+WARN  (NL0002) : The module "clks" instantiated to "MI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1555)
+WARN  (NL0002) : The module "clks" instantiated to "MI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1628)
+WARN  (NL0002) : The module "clks" instantiated to "RE4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1543)
+WARN  (NL0002) : The module "clks" instantiated to "RE5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1616)
+WARN  (NL0002) : The module "clks" instantiated to "SI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1597)
+WARN  (NL0002) : The module "clks" instantiated to "SI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1670)
+WARN  (NL0002) : The module "clks" instantiated to "SOL4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1573)
+WARN  (NL0002) : The module "clks" instantiated to "SOL5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":1646)
+WARN  (NL0002) : The module "clks" instantiated to "AB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":627)
+WARN  (NL0002) : The module "clks" instantiated to "AB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":700)
+WARN  (NL0002) : The module "clks" instantiated to "BB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":639)
+WARN  (NL0002) : The module "clks" instantiated to "BB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":712)
+WARN  (NL0002) : The module "clks" instantiated to "DB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":585)
+WARN  (NL0002) : The module "clks" instantiated to "DB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":658)
+WARN  (NL0002) : The module "clks" instantiated to "EB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":597)
+WARN  (NL0002) : The module "clks" instantiated to "EB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":670)
+WARN  (NL0002) : The module "clks" instantiated to "FA4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":609)
+WARN  (NL0002) : The module "clks" instantiated to "FA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":682)
+WARN  (NL0002) : The module "clks" instantiated to "GB4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":615)
+WARN  (NL0002) : The module "clks" instantiated to "GB5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":688)
+WARN  (NL0002) : The module "clks" instantiated to "LA5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":706)
+WARN  (NL0002) : The module "clks" instantiated to "MI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":603)
+WARN  (NL0002) : The module "clks" instantiated to "MI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":676)
+WARN  (NL0002) : The module "clks" instantiated to "RE4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":591)
+WARN  (NL0002) : The module "clks" instantiated to "RE5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":664)
+WARN  (NL0002) : The module "clks" instantiated to "SI4_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":645)
+WARN  (NL0002) : The module "clks" instantiated to "SI5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":718)
+WARN  (NL0002) : The module "clks" instantiated to "SOL5_inst" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\frecuencia.v":694)
+WARN  (NL0002) : The module "rom_personaje" instantiated to "rom_personaje" is swept in optimizing("C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\src\main.v":105)
+[95%] Generate netlist file "C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\proyecto final.vg" completed
+[100%] Generate report file "C:\Gowin\Gowin_V1.9.9Beta-4_Education\IDE\bin\juego-del-heroe\proyecto final\impl\gwsynthesis\proyecto final_syn.rpt.html" completed
 GowinSynthesis finish

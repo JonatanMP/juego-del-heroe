@@ -1,10 +1,11 @@
 module audioselec (
     input clk,
+    input [1:0] v_d,
     input [3:0] presente,
-    output musica
+    output reg musica
 );
   //estado
-  wire estado;
+  reg [1:0] estado;
   wire muic1, muic2, muic3, muic4;
 
   parameter apagado = 4'd0, hola = 4'd1, personaje = 4'd2, juego = 4'd3, GP = 4'd4, YN = 4'd5;
@@ -58,10 +59,8 @@ module audioselec (
     end else begin
       musica <= 0;
       estado <= 0;
-    end 
+    end
 
   end
-
-b
 
 endmodule

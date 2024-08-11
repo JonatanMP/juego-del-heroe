@@ -44,7 +44,7 @@ B5 (Si): 987.77 Hz*/
 
   always @(posedge clk_out) begin
     conteo <= 8'd0;
-    if ((estado == 1'd1) && () ) begin
+    if ((estado == 1'd1)) begin
       conteo <= conteo + 8'd1;
     end else if (conteo > 8'd240) begin
       conteo <= 8'd0;
@@ -78,6 +78,19 @@ B5 (Si): 987.77 Hz*/
   parameter LA5 = 29'd30_682;  // 879.99 Hz
   parameter BB5 = 29'd28_960;  // 932.32 Hz
   parameter SI5 = 29'd27_334;  // 987.77 Hz
+
+  wire do4, do5;
+  wire db4, db5;
+  wire re4, re5;
+  wire eb4, eb5;
+  wire mi4, mi5;
+  wire fa4, fa5;
+  wire gb4, gb5;
+  wire sol4, sol5;
+  wire ab4, ab5;
+  wire la4, la5;
+  wire bb4, bb5;
+  wire si4, si5;
 
   // Instanciaciones
   clks DO4_inst (
@@ -474,10 +487,7 @@ B5 (Si): 987.77 Hz*/
 endmodule
 
 
-
-
-
-/////////////////////////////////clk module
+/////////////////////////////////clk module ////////////////
 module clks (
     input [28:0] DIVISOR,
     input clk_in,
@@ -485,8 +495,6 @@ module clks (
 );
 
   reg [29:0] counter;
-
-  //////////////////////////////////////clock divider///////////////////////////////
   always @(posedge clk_in) begin
     counter <= counter + 28'd1;
     if (counter >= (DIVISOR - 1)) counter <= 28'd0;
@@ -494,42 +502,13 @@ module clks (
   end
 
 endmodule
-//////////////////////////////////////clock divider///////////////////////////////
-
-
+////////////////////////////////////////////////////////////
 
 module notas_zelda (
     input clk,
     input [1:0] estado,
     output reg muic4
 );
-
-  /*Frecuencias de las Notas en la Octava C4 (4ta Octava)
-C4 (Do): 261.63 Hz
-C#4 / Db4 (Do# / Re♭): 277.18 Hz
-D4 (Re): 293.66 Hz
-D#4 / Eb4 (Re# / Mi♭): 311.13 Hz
-E4 (Mi): 329.63 Hz
-F4 (Fa): 349.23 Hz
-F#4 / Gb4 (Fa# / Sol♭): 369.99 Hz
-G4 (Sol): 392.00 Hz
-G#4 / Ab4 (Sol# / La♭): 415.30 Hz
-A4 (La): 440.00 Hz
-A#4 / Bb4 (La# / Si♭): 466.16 Hz
-B4 (Si): 493.88 Hz
-Frecuencias de las Notas en la Octava C5 (5ta Octava)
-C5 (Do): 523.25 Hz
-C#5 / Db5 (Do# / Re♭): 554.37 Hz
-D5 (Re): 587.33 Hz
-D#5 / Eb5 (Re# / Mi♭): 622.25 Hz
-E5 (Mi): 659.25 Hz
-F5 (Fa): 698.46 Hz
-F#5 / Gb5 (Fa# / Sol♭): 739.99 Hz
-G5 (Sol): 783.99 Hz
-G#5 / Ab5 (Sol# / La♭): 830.61 Hz
-A5 (La): 880.00 Hz
-A#5 / Bb5 (La# / Si♭): 932.33 Hz
-B5 (Si): 987.77 Hz*/
 
   parameter [28:0] divider = 1_687_500;
   reg clk_out;
@@ -578,6 +557,19 @@ B5 (Si): 987.77 Hz*/
   parameter LA5 = 29'd30_682;  // 879.99 Hz
   parameter BB5 = 29'd28_960;  // 932.32 Hz
   parameter SI5 = 29'd27_334;  // 987.77 Hz
+
+  wire do4, do5;
+  wire db4, db5;
+  wire re4, re5;
+  wire eb4, eb5;
+  wire mi4, mi5;
+  wire fa4, fa5;
+  wire gb4, gb5;
+  wire sol4, sol5;
+  wire ab4, ab5;
+  wire la4, la5;
+  wire bb4, bb5;
+  wire si4, si5;
 
   // Instanciaciones
   clks DO4_inst (
@@ -990,33 +982,6 @@ module notas_Mario (
     output reg muic2
 );
 
-  /*Frecuencias de las Notas en la Octava C4 (4ta Octava)
-C4 (Do): 261.63 Hz
-C#4 / Db4 (Do# / Re♭): 277.18 Hz
-D4 (Re): 293.66 Hz
-D#4 / Eb4 (Re# / Mi♭): 311.13 Hz
-E4 (Mi): 329.63 Hz
-F4 (Fa): 349.23 Hz
-F#4 / Gb4 (Fa# / Sol♭): 369.99 Hz
-G4 (Sol): 392.00 Hz
-G#4 / Ab4 (Sol# / La♭): 415.30 Hz
-A4 (La): 440.00 Hz
-A#4 / Bb4 (La# / Si♭): 466.16 Hz
-B4 (Si): 493.88 Hz
-Frecuencias de las Notas en la Octava C5 (5ta Octava)
-C5 (Do): 523.25 Hz
-C#5 / Db5 (Do# / Re♭): 554.37 Hz
-D5 (Re): 587.33 Hz
-D#5 / Eb5 (Re# / Mi♭): 622.25 Hz
-E5 (Mi): 659.25 Hz
-F5 (Fa): 698.46 Hz
-F#5 / Gb5 (Fa# / Sol♭): 739.99 Hz
-G5 (Sol): 783.99 Hz
-G#5 / Ab5 (Sol# / La♭): 830.61 Hz
-A5 (La): 880.00 Hz
-A#5 / Bb5 (La# / Si♭): 932.33 Hz
-B5 (Si): 987.77 Hz*/
-
   parameter [28:0] divider = 1_687_500;
   reg clk_out;
   reg [28:0] counter = 26'd0;
@@ -1064,6 +1029,19 @@ B5 (Si): 987.77 Hz*/
   parameter LA5 = 29'd30_682;  // 879.99 Hz
   parameter BB5 = 29'd28_960;  // 932.32 Hz
   parameter SI5 = 29'd27_334;  // 987.77 Hz
+
+  wire do4, do5;
+  wire db4, db5;
+  wire re4, re5;
+  wire eb4, eb5;
+  wire mi4, mi5;
+  wire fa4, fa5;
+  wire gb4, gb5;
+  wire sol4, sol5;
+  wire ab4, ab5;
+  wire la4, la5;
+  wire bb4, bb5;
+  wire si4, si5;
 
   // Instanciaciones
   clks DO4_inst (
@@ -1482,32 +1460,7 @@ module notas_tetriz (
     output reg muic3
 );
 
-  /*Frecuencias de las Notas en la Octava C4 (4ta Octava)
-C4 (Do): 261.63 Hz
-C#4 / Db4 (Do# / Re♭): 277.18 Hz
-D4 (Re): 293.66 Hz
-D#4 / Eb4 (Re# / Mi♭): 311.13 Hz
-E4 (Mi): 329.63 Hz
-F4 (Fa): 349.23 Hz
-F#4 / Gb4 (Fa# / Sol♭): 369.99 Hz
-G4 (Sol): 392.00 Hz
-G#4 / Ab4 (Sol# / La♭): 415.30 Hz
-A4 (La): 440.00 Hz
-A#4 / Bb4 (La# / Si♭): 466.16 Hz
-B4 (Si): 493.88 Hz
-Frecuencias de las Notas en la Octava C5 (5ta Octava)
-C5 (Do): 523.25 Hz
-C#5 / Db5 (Do# / Re♭): 554.37 Hz
-D5 (Re): 587.33 Hz
-D#5 / Eb5 (Re# / Mi♭): 622.25 Hz
-E5 (Mi): 659.25 Hz
-F5 (Fa): 698.46 Hz
-F#5 / Gb5 (Fa# / Sol♭): 739.99 Hz
-G5 (Sol): 783.99 Hz
-G#5 / Ab5 (Sol# / La♭): 830.61 Hz
-A5 (La): 880.00 Hz
-A#5 / Bb5 (La# / Si♭): 932.33 Hz
-B5 (Si): 987.77 Hz*/
+
 
   parameter [28:0] divider = 1_687_500;
   reg clk_out;
@@ -1556,6 +1509,19 @@ B5 (Si): 987.77 Hz*/
   parameter LA5 = 29'd30_682;  // 879.99 Hz
   parameter BB5 = 29'd28_960;  // 932.32 Hz
   parameter SI5 = 29'd27_334;  // 987.77 Hz
+
+  wire do4, do5;
+  wire db4, db5;
+  wire re4, re5;
+  wire eb4, eb5;
+  wire mi4, mi5;
+  wire fa4, fa5;
+  wire gb4, gb5;
+  wire sol4, sol5;
+  wire ab4, ab5;
+  wire la4, la5;
+  wire bb4, bb5;
+  wire si4, si5;
 
   // Instanciaciones
   clks DO4_inst (

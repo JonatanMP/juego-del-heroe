@@ -147,6 +147,7 @@ module top (
   audioselec audioselec (
       .clk(clk),
       .presente(presente),
+      .v_d(v_d),
       .musica(musica)
   );
 endmodule
